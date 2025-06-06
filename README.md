@@ -15,20 +15,6 @@
 
 
 
-### 🌍 Real-Time Profile Views & Visitors
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushkum4590&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/raushkum4590?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/raushkum4590?label=Total%20Stars&style=for-the-badge&color=ffc107" alt="Total Stars" />
-</div>
-
-### 📅 This Week's Contribution Summary
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushkum4590&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=This%20Week's%20GitHub%20Stats&hide_rank=true" alt="Weekly Stats"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🚀 About Me
 
 I'm a passionate **Full Stack Developer** from India 🇮🇳 who loves crafting digital experiences and solving complex problems through code. I believe in writing clean, efficient code and am always excited to learn new technologies.
@@ -111,26 +97,6 @@ developer.say_hi()
 </div>
 
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raushkum4590&theme=react&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/raushkum4590/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushkum4590&repo=project-1&theme=react&border_radius=10" />
-  </a>
-  <a href="https://github.com/raushkum4590/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushkum4590&repo=project-2&theme=react&border_radius=10" />
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let's Connect & Collaborate
 
