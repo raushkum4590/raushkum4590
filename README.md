@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushankumar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/raushankumar?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=raushkum4590&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/raushkum4590?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub followers" />
 </div>
 
 <br/>
@@ -32,14 +32,14 @@ Docker       58 mins         █░░░░░░░░░░░░░░░░
 
 ### 🌍 Real-Time Profile Views & Visitors
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushankumar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/raushankumar?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/raushankumar?label=Total%20Stars&style=for-the-badge&color=ffc107" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=raushkum4590&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/raushkum4590?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/raushkum4590?label=Total%20Stars&style=for-the-badge&color=ffc107" alt="Total Stars" />
 </div>
 
 ### 📅 This Week's Contribution Summary
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushankumar&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=This%20Week's%20GitHub%20Stats&hide_rank=true" alt="Weekly Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raushkum4590&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=This%20Week's%20GitHub%20Stats&hide_rank=true" alt="Weekly Stats"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -113,33 +113,33 @@ developer.say_hi()
 ## 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raushankumar&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar&layout=compact&langs_count=8&theme=react&border_radius=10&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raushkum4590&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushkum4590&layout=compact&langs_count=8&theme=react&border_radius=10&cache_seconds=86400"/>
 </div>
 
 ### 🔥 Current Streak & Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushkum4590&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Graph (Live Updates)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankumar&theme=react-dark&hide_border=true&area=true&custom_title=Real-Time%20Contribution%20Activity&height=300" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushkum4590&theme=react-dark&hide_border=true&area=true&custom_title=Real-Time%20Contribution%20Activity&height=300" alt="GitHub Activity Graph" />
 </div>
 
 ### ⚡ Live GitHub Metrics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raushankumar&theme=react" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raushkum4590&theme=react" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raushankumar&theme=react" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushankumar&theme=react" alt="Top Languages by Commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raushkum4590&theme=react" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushkum4590&theme=react" alt="Top Languages by Commits"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushankumar&theme=react" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raushankumar&theme=react&utc_offset=5.5" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushkum4590&theme=react" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raushkum4590&theme=react&utc_offset=5.5" alt="Productive Time"/>
 </div>
 
 ### 🎯 Recent Activity Feed
@@ -149,7 +149,7 @@ developer.say_hi()
 *🔄 This section will show recent GitHub activity automatically*
 <!--END_SECTION:activity-->
 
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=raushankumar&theme=minimal&hide_border=true&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF)
+![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=raushkum4590&theme=minimal&hide_border=true&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF)
 
 </div>
 
@@ -158,7 +158,7 @@ developer.say_hi()
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raushankumar&theme=react&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raushkum4590&theme=react&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -166,11 +166,11 @@ developer.say_hi()
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/raushankumar/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushankumar&repo=project-1&theme=react&border_radius=10" />
+  <a href="https://github.com/raushkum4590/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushkum4590&repo=project-1&theme=react&border_radius=10" />
   </a>
-  <a href="https://github.com/raushankumar/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushankumar&repo=project-2&theme=react&border_radius=10" />
+  <a href="https://github.com/raushkum4590/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushkum4590&repo=project-2&theme=react&border_radius=10" />
   </a>
 </div>
 
@@ -205,7 +205,7 @@ developer.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raushankumar/raushankumar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/raushkum4590/raushkum4590/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
