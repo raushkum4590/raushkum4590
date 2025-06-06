@@ -90,19 +90,10 @@ developer.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar&theme=react&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankumar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raushankumar&theme=react&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Featured Projects
 
