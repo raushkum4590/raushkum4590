@@ -13,22 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⏱️ Real-Time Coding Activity
 
-<div align="center">
-
-### 📊 Weekly Coding Stats (Auto-Updated)
-<!--START_SECTION:waka-->
-```text
-Python       8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.39%
-JavaScript   4 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   25.34%
-CSS          2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56%
-HTML         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21%
-Docker       58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50%
-```
-<!--END_SECTION:waka-->
-
-</div>
 
 ### 🌍 Real-Time Profile Views & Visitors
 <div align="center">
@@ -103,8 +88,6 @@ developer.say_hi()
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -127,33 +110,6 @@ developer.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushkum4590&theme=react-dark&hide_border=true&area=true&custom_title=Real-Time%20Contribution%20Activity&height=300" alt="GitHub Activity Graph" />
 </div>
 
-### ⚡ Live GitHub Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raushkum4590&theme=react" alt="GitHub Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raushkum4590&theme=react" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushkum4590&theme=react" alt="Top Languages by Commits"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushkum4590&theme=react" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raushkum4590&theme=react&utc_offset=5.5" alt="Productive Time"/>
-</div>
-
-### 🎯 Recent Activity Feed
-<div align="center">
-  
-<!--START_SECTION:activity-->
-*🔄 This section will show recent GitHub activity automatically*
-<!--END_SECTION:activity-->
-
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=raushkum4590&theme=minimal&hide_border=true&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Achievements
 
