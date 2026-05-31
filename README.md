@@ -8,12 +8,6 @@
 <!-- ===================== COMIC INTRO ===================== -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║   💥 POW!   ⚡ ZAP!   🔥 BOOM!   ...another bug squashed!   ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=400&size=32&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=A+FULL+STACK+SUPERHERO+APPEARS!;DEPLOYING+CODE+AT+THE+SPEED+OF+LIGHT!;TURNING+CAFFEINE+INTO+CLEAN+CODE!;TRAINING+MODELS%2C+SHIPPING+FEATURES!" alt="Comic Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=raushkum4590&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
