@@ -26,7 +26,7 @@
 <!-- ===================== ORIGIN STORY ===================== -->
 ## 🦸 ORIGIN STORY
 
-<img align="right" alt="Coding hero" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 > *"In a world full of bugs... one developer dared to refactor."*
 
