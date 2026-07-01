@@ -2,9 +2,10 @@
 
 **Full Stack Developer** · India 🇮🇳
 
-Building scalable web applications with a focus on clean, maintainable code. I enjoy turning complex problems into simple, elegant solutions across the full stack.
+Building scalable web applications and AI-powered products with a focus on clean, maintainable code. I enjoy turning complex problems into simple, elegant solutions across the full stack.
 
-- 🔭 Currently focused on building scalable web applications
+- 🔭 Currently building full stack apps with Next.js, Supabase & Prisma
+- 🤖 Working with LangChain and RAG chatbots to build AI-powered features
 - 🌱 Always learning new technologies and refining my craft
 - 💬 Open to collaboration and connecting with fellow developers
 
@@ -21,17 +22,26 @@ Building scalable web applications with a focus on clean, maintainable code. I e
 
 **Frameworks & Libraries**
 &nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-**Databases**
+**AI & LLM**
 &nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![RAG Chatbots](https://img.shields.io/badge/RAG_Chatbots-412991?style=flat&logo=openai&logoColor=white)
+
+**Databases & ORM**
+&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Platforms**
