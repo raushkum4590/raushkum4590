@@ -57,8 +57,16 @@ Building scalable web applications and AI-powered products with a focus on clean
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raushkum4590&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushkum4590&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raushkum4590&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushkum4590&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=raushkum4590&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushkum4590&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity&height=300" alt="Contribution Activity Graph" />
 </div>
 
 ---
