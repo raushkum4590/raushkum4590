@@ -1,136 +1,60 @@
-# 👋 Hello, I'm Raushan Kumar
+# Raushan Kumar
+
+**Full Stack Developer** · India 🇮🇳
+
+Building scalable web applications with a focus on clean, maintainable code. I enjoy turning complex problems into simple, elegant solutions across the full stack.
+
+- 🔭 Currently focused on building scalable web applications
+- 🌱 Always learning new technologies and refining my craft
+- 💬 Open to collaboration and connecting with fellow developers
+
+---
+
+## Tech Stack
+
+**Languages**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Databases**
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%26+React+Enthusiast;Building+Digital+Solutions;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raushkum4590&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushkum4590&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=86400" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushkum4590&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/raushkum4590?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub followers" />
-</div>
+---
 
-<br/>
+## Connect
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** from India 🇮🇳 who loves crafting digital experiences and solving complex problems through code. I believe in writing clean, efficient code and am always excited to learn new technologies.
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```python
-class RaushanKumar:
-    def __init__(self):
-        self.name = "Raushan Kumar"
-        self.location = "India"
-        self.role = "Full Stack Developer"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Django", "React", "React Native"]
-        self.databases = ["MongoDB", "PostgreSQL", "MySQL"]
-        self.tools = ["Docker", "Git", "Figma", "Firebase"]
-        self.current_focus = "Building scalable web applications"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-developer = RaushanKumar()
-developer.say_hi()
-```
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🚀 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Real-Time GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raushkum4590&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushkum4590&layout=compact&langs_count=8&theme=react&border_radius=10&cache_seconds=86400"/>
-</div>
-
-### 🔥 Current Streak & Activity
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushkum4590&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-### 📈 Contribution Graph (Live Updates)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushkum4590&theme=react-dark&hide_border=true&area=true&custom_title=Real-Time%20Contribution%20Activity&height=300" alt="GitHub Activity Graph" />
-</div>
-
-
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raushan-kumar-a38a56295/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://raushan-portfolio-dun.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3570kumarraushan@gmail.com
-)
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 Developer Quote
-
-<div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-  
-### 🌟 "Passionate about turning ideas into reality through code" 🌟
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- **Portfolio:** [raushan-portfolio-dun.vercel.app](https://raushan-portfolio-dun.vercel.app/)
+- **LinkedIn:** [Raushan Kumar](https://www.linkedin.com/in/raushan-kumar-a38a56295/)
+- **Email:** [3570kumarraushan@gmail.com](mailto:3570kumarraushan@gmail.com)
